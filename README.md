@@ -1,4 +1,5 @@
-- 👋 Olá , meu nome é Rafael , um entusiasta da tecnologia.                      
+- 👋 Olá , meu nome é Rafael , sou engenheiro de software tenho experiência com programação .
+
 
 <div align="center">
   <a href="https://github.com//rafaelmeireles-ti">
@@ -31,4 +32,16 @@
   <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="oracle"  title = "oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   
+</div>
+
+<br>
+
+
+- 📬 Entre em contato comigo:
+
+<div> 
+  <a href = "mailto:rafaelmeireles.ti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaelmeirelesti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+
 </div>
