@@ -10,15 +10,26 @@
 
 <br>
 
--   Tecnologias que possuo experiências relevantes:
+- 😎 Tecnologias que possuo experiências relevantes:
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+  
+  <img align="center" alt="cobol" title="COBOL" height="30" width="40" src="https://imagens.tiespecialistas.com.br/2013/08/cobol.jpeg">
+  <img align="center" alt="jcl"  title="JCL" height="30" width="40" src="https://tectreinos.com.br/wp-content/uploads/2017/04/jcl.png">
+  <img align="center" alt="vsam" title="VSAM" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0R2yGFp6DxKLRcJQ-yAibEperJO6-xmsKl6-QQBVC8R9-VPsqb6QZ1G7u7NNpth1EmKE&usqp=CAU"> 
+  <img align="center" alt="ibmdb2" title="IBM DB2" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcP4ENdsUb-yHd7bbZFIUHBTcd2iIkE8GGrw&usqp=CAU">
+  <img align="center" alt="PostSql" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+ <br> 
+
+- 🤪 Tecnologias que estou aprendendo:
+
+  <img align="center" alt="cobol-micro" title="COBOL MICRO FOCUS" height="30" width="40" src="https://access.redhat.com/sites/default/files/micro_focus_visual_cobol_0.jpg">
+  <img align="center" alt="ingres" title="INGRES" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH3OEmriuMih8bfsXbVgdQnWBbWIvUZIiIegUckYA6IXEnzVkXN_0Xnc3mzi9LgVK50zE&usqp=CAU">
+  <img align="center" alt="angular" title="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="html" title="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="css" title="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="JS" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="oracle"  title = "oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   
 </div>
