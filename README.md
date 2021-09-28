@@ -1,4 +1,4 @@
-- 👋 Olá , meu nome é Rafael , sou engenheiro de software tenho experiência com programação .
+- 👋 Olá , meu nome é Rafael , sou engenheiro de software e sou um entusiasta de tecnologia.
 
 
 <div align="center">
